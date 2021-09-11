@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 .expo/
 npm-debug.*
@@ -11,3 +12,18 @@ web-build/
 
 # macOS
 .DS_Store
+=======
+node_modules/
+.expo/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+>>>>>>> 8411d2711a93b302dbbf60ecee5c9aef96bfe91e
